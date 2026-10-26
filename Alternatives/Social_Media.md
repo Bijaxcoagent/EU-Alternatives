@@ -1,3 +1,3 @@
-Discord -> Goofcord (Webcord is better)
+Discord -> Goofcord, WebCord or Serein
 Discord -> Stoat or RootApp
 Roblox -> Sober
