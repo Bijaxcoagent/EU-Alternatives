@@ -21,7 +21,7 @@ What to use and why:
     Zen (Based in Spain,
 2. Chrome based Browsers
 A bit more difficult since Chromium is specifically from Google
-3. "Special Browsers
+3. "Special Browsers"
   These Browsers are a bit quirky and generally not laid out to be someone's everyday Browser.
   Falkon (Based in Germany, GDPR-friendly, made by KDE using the QtWebkit-Engine. It has extremely low RAM-usage but also not much functionality and it looks more like a settings app than a Browser)
   QuteBrowser (Based in Switzerland, FADP-friendly. It has even lower RAM-usage but in turn it is a "Terminal-Browser" and has vim-like controls)
@@ -29,4 +29,5 @@ A bit more difficult since Chromium is specifically from Google
 
   TODO: continue this list, start with streaming alternatives, do the OS alternatives, refactor this, start with vpns, start with ai, start with social media, start with editors and stuff, start with IDEs
 Browser must haves -> SponsorBlock, uBlock Origin, Plasma Integration (if KDE), Enhancer for Youtube and Auto Tab Discard
-Google -> Qwant, Ecosia
+Google -> Qwant (not anymore, it had a scandal and shady deals with microsoft!), Ecosia (EUSP index), purili (rather new, lacks options)
+midori also one alternative might add here professionally
